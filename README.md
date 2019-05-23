@@ -7,4 +7,4 @@ Software files for a Sumo Robot named Atlas, 2nd place in the VI National Roboti
 ## Authors
 
 * **Leonardo Ward** -  [Github](https://github.com/leonardoward)
-* **Javier Inojosa** -  [Github](https://github.com/JavierIM13)
+* **Javier Inojosa** -  [Github](https://github.com/javierinojosa)
