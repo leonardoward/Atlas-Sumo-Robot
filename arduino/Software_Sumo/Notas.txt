@@ -1,0 +1,21 @@
+-Todos los robots deben quedar funcionales, y cumplir con lo que se prometió para cada uno
+-No va a haber inversión por ahora, por lo menos hasta ver los resultados de la primera inversión,
+lo que falte se puede buscar aquí
+-Se debe desarmar por completo el submarino para comenzar desde cero, y verificar que ninguna de las piezas
+se haya dañado, una vez se verifique que todo lo comprado y las cosas de Pedro se encuentran en buen estado
+se podrá comenzar desde cero.
+-Es necesario quitarle el negro a todo el submarino de cualquier forma para que luego se pueda pintar del color que
+vaya a tener al final, posiblemente amarillo
+-Revisar el acrílico, que no debería tener pintura, debería estar en perfecto estado porque se colocó luego de pintar
+-Considerar opciones, hacer maquinado con Gearca, pero no vamos a tener dinero para conseguir el material necesario para hacer el maquinado, debemos conseguirlo de cualquier modo, como fundir otras piezas, y si no se puede, entonces no habrá maquinado, tendran que construir cada parte con el aluminio que tenemos o que se pueda conseguir, y se paga la soldadura
+-Se espera que el submarino se sumerja 10 o 20 metros
+-Montar toda la electrónica fuera del submarino, para verlo todo funcionando, aunque no haya nada de la mecánica
+-Análisis hidráulico del submarino
+
+Actividades pendientes:
+-Trabajo Cardiotune
+-Tesis
+-Comentar código del robot de sumo
+-Electiva solar
+
+
